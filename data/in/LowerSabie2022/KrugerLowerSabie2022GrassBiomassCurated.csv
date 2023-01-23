@@ -1,0 +1,112 @@
+﻿Plot #,Letter,GPS #,Date Harvested,Site,% Cover,Height 1,Height 2,Height 3,Height 4,Dry Weight (g),Location,Tree Species,DPM
+A1,A,1,Sep 26 2022,Lower Sabie west,70,2,6,5,2,18.03,No trees,,5
+A2,A,2,Sep 26 2022,Lower Sabie west,100,50,40,45,45,137.58,No trees,,16
+A3,A,3,Sep 26 2022,Lower Sabie west,100,75,85,70,65,300.17,No trees,,36
+A4,A,4,Sep 26 2022,Lower Sabie west,65,1,4.5,3,0,28.28,No trees,,4.5
+A5,A,5,Sep 26 2022,Lower Sabie west,100,65,70,60,70,162.31,No trees,,16.5
+A6,A,6,Sep 26 2022,Lower Sabie west,70,20,15,2,5,20.01,No trees,,5.5
+A7,A,7,Sep 26 2022,Lower Sabie west,40,5,5.5,5,5,25.25,No trees,,4.5
+A8,A,8,Sep 26 2022,Lower Sabie west,75,10,30,10,25,57.13,No trees,,8.5
+A9,A,9,Sep 26 2022,Lower Sabie west,100,40,45,25,45,109.34,No trees,,13
+A10,A,10,Sep 26 2022,Lower Sabie west,95,60,45,55,65,136.81,No trees,,21
+A11,A,11,Sep 26 2022,Lower Sabie west,> 5,0,0,0,5,2.13,Bareground with burrow in between,,0
+A12,A,12,Sep 26 2022,Lower Sabie west,65,25,5,5.5,2,28.66,No trees,,7
+A13,A,13,Sep 26 2022,Lower Sabie west,40,30,10,15,15,28.06,Beneath A. nigrescens,#NAME?,
+A14,A,14,Sep 26 2022,Lower Sabie west,80,30,35,20,45,52.12,No trees,,10
+A15,A,15,Sep 26 2022,Lower Sabie west,50,0,10,15,0,40.68,No trees,,8
+A16,A,16,Sep 26 2022,Lower Sabie west,95,30,45,55,50,151.67,No trees,,13
+A17,A,17,Sep 26 2022,Lower Sabie west,75,15,30,10,45,58.12,No trees,,9
+A18,A,18,Sep 26 2022,Lower Sabie west,0,0,0,0,0,0.09,Bareground,,0
+A19,A,19,Sep 26 2022,Lower Sabie west,100,60,55,65,45,153.59,No trees,,20
+A20,A,20,Sep 26 2022,Lower Sabie west,40,6,5,0,5,54.45,No trees,,4.5
+A21,A,21,Sep 26 2022,Lower Sabie west,5,0,0,0,0,8.94,Bareground,,0
+A22,A,22,Sep 26 2022,Lower Sabie west,50,5,7,14,17,47.08,No trees,,7
+A23,A,23,Sep 26 2022,Lower Sabie west,90,55,80,40,60,145.72,No trees,,32
+A24,A,24,Sep 26 2022,Lower Sabie west,95,75,55,80,65,175.72,No trees,,17
+A25,A,25,Sep 26 2022,Lower Sabie west,60,30,10,2,18,49.69,No trees,,7
+A26,A,26,Sep 26 2022,Lower Sabie west,85,5,5,2,3,34.09,No trees,,2
+A27,A,27,Sep 26 2022,Lower Sabie west,15,0,3,0,0,14.5,No trees;near termite mound,,2
+A28,A,28,Sep 26 2022,Lower Sabie west,100,95,75,70,65,118.79,No trees,,17
+A29,A,29,Sep 26 2022,Lower Sabie west,30,10,17,0,15,140.27,Beneath Bolucusthes,,10
+A30,A,30,Sep 26 2022,Lower Sabie west,90,65,55,60,55,161.88,No trees,,28
+B1,B,1,Sep 26 2022,Lower Sabie west,85,10,20,20,30,76.51,No trees,,7
+B2,B,2,Sep 26 2022,Lower Sabie west,90,50,55,35,35,126.63,No trees,,12.5
+B3,B,3,Sep 26 2022,Lower Sabie west,85,2.5,2,15,10,96.46,No trees,,8
+B4,B,4,Sep 26 2022,Lower Sabie west,90,25,25,45,35,184.53,No trees,,16.5
+B5,B,5,Sep 26 2022,Lower Sabie west,80,15,10,10,15,46.66,No trees,,8.5
+B6,B,6,Sep 26 2022,Lower Sabie west,0,0,0,0,0,0.75,Bareground,,1
+B7,B,7,Sep 26 2022,Lower Sabie west,95,10,15,25,15,63.07,Beneath A.nigrescens,,12
+B8,B,8,Sep 26 2022,Lower Sabie west,30,0,0,5.5,0,2.39,No trees,,2
+B9,B,9,Sep 26 2022,Lower Sabie west,100,70,105,75,85,186.52,No trees,,29
+B10,B,10,Sep 26 2022,Lower Sabie west,75,15,10,30,0,58.18,No trees,,9
+B11,B,11,Sep 26 2022,Lower Sabie west,100,80,65,55,90,203.61,No trees,,32
+B12,B,12,Sep 26 2022,Lower Sabie west,100,15,25,30,35,96.85,No trees,,13.5
+B13,B,13,Sep 26 2022,Lower Sabie west,80,10,2,5,5,79.79,No trees,,6
+B14,B,14,Sep 26 2022,Lower Sabie west,90,45,30,30,55,86.48,No trees,,12
+B15,B,15,Sep 26 2022,Lower Sabie west,70,60,65,15,70,107.64,No trees,,16.5
+B16,B,16,Sep 26 2022,Lower Sabie west,45,25,0,20,35,57.71,No trees,,7
+B17,B,17,Sep 26 2022,Lower Sabie west,85,20,35,30,10,73.64,No trees,,10
+B18,B,18,Sep 26 2022,Lower Sabie west,100,60,70,60,55,121.46,No trees,,15
+B19,B,19,Sep 26 2022,Lower Sabie west,55,10,15,15,25,67.85,No trees,,11
+B20,B,20,Sep 26 2022,Lower Sabie west,70,25,15,25,40,46.55,No trees,,8
+B21,B,21,Sep 26 2022,Lower Sabie west,60,7,0,7,5,17.96,No trees,,4
+B22,B,22,Sep 26 2022,Lower Sabie west,80,50,15,40,25,83.56,Beneath A. nigrescens,,11
+B23,B,23,Sep 26 2022,Lower Sabie west,60,40,35,10,10,80.99,No trees,,10.5
+B24,B,24,Sep 26 2022,Lower Sabie west,100,55,35,70,60,259.98,No trees,,41
+B25,B,25,Sep 26 2022,Lower Sabie west,100,60,55,30,60,99.75,No trees,,17
+B26,B,26,Sep 26 2022,Lower Sabie west,85,15,22,30,15,86.5,No trees,,11.5
+B27,B,27,Sep 26 2022,Lower Sabie west,40,2,3,6,0,18.47,No trees,,2
+B28,B,28,Sep 26 2022,Lower Sabie west,5,2,0,0,0,0,Bareground,,0
+B29,B,29,Sep 26 2022,Lower Sabie west,40,12,2,0,8,20.36,Beneath tree,,3
+B30,B,30,Sep 26 2022,Lower Sabie west,80,15,10,25,15,55.58,No trees,,9
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
