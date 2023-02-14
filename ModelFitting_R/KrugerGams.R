@@ -53,7 +53,7 @@ XYdata = XYdata %>% mutate(PAIherb_5cm = if_else((coverherb_5cm<1) & (coverherb_
 # Add a log mean height
 XYdata = XYdata %>% mutate(logmean = if_else(mean>0, log(mean), mean))
 
-# Add Coefficient of variation
+# Add Coefficient of variation & height ratios
 XYdata = XYdata %>% mutate(CV = mean/std,
                            prat = perc100 - mean / perc100,
                            prat50 = perc100 - perc50 / perc100,
