@@ -1,2 +1,2 @@
 # grass-biomass
-Methods and model for prediction grass biomass.
+Methods and models for predicting grass biomass.
