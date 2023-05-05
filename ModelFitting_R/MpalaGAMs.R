@@ -226,7 +226,9 @@ rRMSE
 
 p1 = ggplot(XYdata, aes(x = perc75,
                         y = Dry_Weight_g,
-                        colour=Tree_Species)) +
+                        colour=Tree_Species,
+                        alpha=0.3,
+                        size=1)) +
   geom_point(size=2.5) +
   xlab("75th percentile height [m]") +
   ylab("Biomass (g)") + scale_color_hue(direction = -1)
@@ -255,11 +257,20 @@ p1 = ggplot(XYdata, aes(x =cover_5cm,
                         y = Dry_Weight_g,
                         colour=Tree_Species)) +
   geom_point(size=2.5) +
-  xlab("Canopy Density") +
+  xlab("Canopy Density 5cm") +
   ylab("Biomass (g)") + scale_color_hue(direction = -1)
 
 p1
 
+
+p1 = ggplot(XYdata, aes(x =cover_0m,
+                        y = Dry_Weight_g,
+                        colour=Tree_Species)) +
+  geom_point(size=2.5) +
+  xlab("Canopy Density") +
+  ylab("Biomass (g)") + scale_color_hue(direction = -1)
+
+p1
 
 # # # INITIAL Dataset 1/23
 # Looks like the best (for non-logged dry-weight data) are:

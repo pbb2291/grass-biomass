@@ -260,7 +260,6 @@ gam.check(kruger_m2, rep=500)
 lines(c(0, 370), c(0, 370))
 
 
-
 kruger_m3 = gam(Dry_Weight_g ~ s(herbh) +
                   s(PAIherb_5cm),
                 data=XY_scale,
@@ -293,3 +292,4 @@ RMSE = sqrt(mean((pred - XY_scale$Dry_Weight_g)^2))
 rRMSE = RMSE/mean(XY_scale$Dry_Weight_g)
 RMSE
 rRMSE
+
